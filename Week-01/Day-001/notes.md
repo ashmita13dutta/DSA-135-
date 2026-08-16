@@ -13,3 +13,6 @@ types of primitive data types, numeric and non mumeric and their ranges
 
 ## operators (2026-08-16T09:34:28.141491+05:30)
 arithmetic, relational,logical,assigment,unary,bitwise
+
+## input/output (2026-08-16T09:57:14.694265+05:30)
+input and output statements
