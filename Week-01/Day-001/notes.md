@@ -31,3 +31,12 @@ conditions of remainder and divisbility logic
 Completed: 2026-08-16T11:01:38.666876+05:30
 
 Validation: Passed (compiled, functional tests green)
+
+## Even/Odd
+
+What I learned:
+remainder logic that is modulus
+
+Completed: 2026-08-16T11:04:59.417976+05:30
+
+Validation: Passed (compiled, functional tests green)
