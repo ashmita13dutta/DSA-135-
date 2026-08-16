@@ -16,3 +16,6 @@ arithmetic, relational,logical,assigment,unary,bitwise
 
 ## input/output (2026-08-16T09:57:14.694265+05:30)
 input and output statements
+
+## Scanner (2026-08-16T09:57:29.494269+05:30)
+types of scanner readers
