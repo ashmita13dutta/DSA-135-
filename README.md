@@ -6,8 +6,8 @@ My 135-day Java data-structures and algorithms accountability journey. This repo
 
 | Metric | Status |
 |---|---|
-| Completed curriculum days | 0 / 135 |
-| Active curriculum day | Day 1 |
+| Completed curriculum days | 1 / 135 |
+| Active curriculum day | Day 2 |
 | Unique problems solved | 0 |
 | Start date | 2026-08-15 |
 | Target date | 2026-12-27 |
