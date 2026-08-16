@@ -22,3 +22,12 @@ types of scanner readers
 
 ## if/else (2026-08-16T10:05:04.093516+05:30)
 simple,duo,multi,nested,ternary
+
+## Leap Year
+
+What I learned:
+conditions of remainder and divisbility logic
+
+Completed: 2026-08-16T11:01:38.666876+05:30
+
+Validation: Passed (compiled, functional tests green)
