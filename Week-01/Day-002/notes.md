@@ -7,3 +7,12 @@ for loop multiplying numbers 1 to n
 Completed: 2026-08-16T20:13:21.401730+05:30
 
 Validation: Passed (compiled, functional tests green)
+
+## Prime check
+
+What I learned:
+loop optimization about factors having pairs and the sqaure root logic
+
+Completed: 2026-08-16T20:20:22.640522+05:30
+
+Validation: Passed (compiled, functional tests green)
