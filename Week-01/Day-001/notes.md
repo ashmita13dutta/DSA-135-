@@ -40,3 +40,12 @@ remainder logic that is modulus
 Completed: 2026-08-16T11:04:59.417976+05:30
 
 Validation: Passed (compiled, functional tests green)
+
+## Maximum of 3
+
+What I learned:
+relational operators and else if conditions
+
+Completed: 2026-08-16T11:13:36.298899+05:30
+
+Validation: Passed (compiled, functional tests green)
