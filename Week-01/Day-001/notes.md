@@ -19,3 +19,6 @@ input and output statements
 
 ## Scanner (2026-08-16T09:57:29.494269+05:30)
 types of scanner readers
+
+## if/else (2026-08-16T10:05:04.093516+05:30)
+simple,duo,multi,nested,ternary
