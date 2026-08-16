@@ -10,3 +10,6 @@ memory location, rules for naming variables: case sensitive, start and subsequen
 
 ## primitive data types (2026-08-16T09:29:29.123932+05:30)
 types of primitive data types, numeric and non mumeric and their ranges
+
+## operators (2026-08-16T09:34:28.141491+05:30)
+arithmetic, relational,logical,assigment,unary,bitwise
