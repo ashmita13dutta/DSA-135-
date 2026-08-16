@@ -25,3 +25,12 @@ sequencing
 Completed: 2026-08-16T20:29:31.622796+05:30
 
 Validation: Passed (compiled, functional tests green)
+
+## Reverse a number
+
+What I learned:
+extracting and removing digits and also preserving the zero as a digit
+
+Completed: 2026-08-16T20:35:58.344628+05:30
+
+Validation: Passed (compiled, functional tests green)
