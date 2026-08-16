@@ -16,3 +16,12 @@ loop optimization about factors having pairs and the sqaure root logic
 Completed: 2026-08-16T20:20:22.640522+05:30
 
 Validation: Passed (compiled, functional tests green)
+
+## Fibonacci
+
+What I learned:
+sequencing
+
+Completed: 2026-08-16T20:29:31.622796+05:30
+
+Validation: Passed (compiled, functional tests green)
