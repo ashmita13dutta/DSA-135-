@@ -34,3 +34,12 @@ extracting and removing digits and also preserving the zero as a digit
 Completed: 2026-08-16T20:35:58.344628+05:30
 
 Validation: Passed (compiled, functional tests green)
+
+## Palindrome number
+
+What I learned:
+similar to reverse number, only comparing it with the stored orginal number
+
+Completed: 2026-08-16T20:38:34.216594+05:30
+
+Validation: Passed (compiled, functional tests green)
