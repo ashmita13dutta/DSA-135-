@@ -49,3 +49,12 @@ relational operators and else if conditions
 Completed: 2026-08-16T11:13:36.298899+05:30
 
 Validation: Passed (compiled, functional tests green)
+
+## Simple Calculator
+
+What I learned:
+if else ladder, nest if else
+
+Completed: 2026-08-16T11:27:05.659226+05:30
+
+Validation: Passed (compiled, functional tests green)
