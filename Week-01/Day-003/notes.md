@@ -25,3 +25,24 @@ independent
 
 ## Confidence
 GREEN
+
+# LC 1672 — Richest Customer Wealth
+
+Curriculum Day: 3
+Solved Date: 2026-08-17
+
+## Pattern
+(not specified)
+
+## My Approach
+first i found the sum of each array that is sum of money of all the jth bank accounts per i th customer then found the maximum among the totals
+
+## Complexity
+Time: O(m*n)
+Space: O(1)
+
+## Assistance
+small_hint
+
+## Confidence
+GREEN
