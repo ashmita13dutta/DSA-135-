@@ -49,3 +49,24 @@ studied_solution
 
 ## Confidence
 YELLOW
+
+# LC 1480 — Running Sum of 1d Array
+
+Curriculum Day: 4
+Solved Date: 2026-08-21
+
+## Pattern
+(not specified)
+
+## My Approach
+assigning new values in place by taking sum of the corrent position and its previous one
+
+## Complexity
+Time: ?
+Space: ?
+
+## Assistance
+small_hint
+
+## Confidence
+GREEN
