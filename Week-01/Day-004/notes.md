@@ -28,3 +28,24 @@ significant_hint
 
 ## Confidence
 YELLOW
+
+# LC 125 — Valid Palindrome
+
+Curriculum Day: 4
+Solved Date: 2026-08-21
+
+## Pattern
+two pointer technique
+
+## My Approach
+two pointer technique where in loop it checks from string's left and right characters are same or not until they reach to the middle, before all this the sentence is already converted to lowercase and replaces all non alpha numerica
+
+## Complexity
+Time: O(n)
+Space: O(n)
+
+## Assistance
+studied_solution
+
+## Confidence
+YELLOW
