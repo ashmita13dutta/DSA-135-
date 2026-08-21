@@ -7,3 +7,24 @@ definition, methods, reverse and palidndrome, counts etc
 
 ## StringBuilder (2026-08-21T17:40:40.527361+05:30)
 used to modify text efficiently without wasting memory, esp for loops and heavy files text processing, its for dynamic text manipulation
+
+# LC 344 — Reverse String
+
+Curriculum Day: 4
+Solved Date: 2026-08-21
+
+## Pattern
+two pointer technique
+
+## My Approach
+having two pointers left right rep indices of the array of char and having them in place ordering from right to left using a temp variable
+
+## Complexity
+Time: O(n)
+Space: O(1)
+
+## Assistance
+significant_hint
+
+## Confidence
+YELLOW
