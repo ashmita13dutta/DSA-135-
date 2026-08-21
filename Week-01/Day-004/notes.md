@@ -70,3 +70,24 @@ small_hint
 
 ## Confidence
 GREEN
+
+# LC 1672 — Richest Customer Wealth
+
+Curriculum Day: 4
+Solved Date: 2026-08-21
+
+## Pattern
+(not specified)
+
+## My Approach
+traversing row wise and taking their sum and checking whose's is maximum value, the ith customer with jth sum of values is maximum is the richest customer
+
+## Complexity
+Time: ?
+Space: ?
+
+## Assistance
+small_hint
+
+## Confidence
+GREEN
