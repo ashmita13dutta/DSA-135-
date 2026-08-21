@@ -16,7 +16,6 @@ public class SimpleCalculator {
         double result = 0;
         boolean validOperation = true;
 
-        // 2. Perform calculation using an if-else-if ladder instead of switch
         if (operator == '+') {
             result = num1 + num2;
         } else if (operator == '-') {
@@ -24,7 +23,7 @@ public class SimpleCalculator {
         } else if (operator == '*') {
             result = num1 * num2;
         } else if (operator == '/') {
-            // Safety check to prevent division by zero
+
             if (num2 != 0) {
                 result = num1 / num2;
             } else {
@@ -36,7 +35,6 @@ public class SimpleCalculator {
             validOperation = false;
         }
 
-        // 3. Print the final result if no errors occurred
         if (validOperation) {
             System.out.println("Result: " + num1 + " " + operator + " " + num2 + " = " + result);
         }
