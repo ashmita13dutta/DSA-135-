@@ -1,16 +1,16 @@
 # DSA Accountability Progress Export
 
-- Active day: 3 / 135
-- Completed days: 2 / 135
-- Schedule delay: 0 day(s)
+- Active day: 5 / 135
+- Completed days: 4 / 135
+- Schedule delay: 2 day(s)
 - Original target end: 2026-12-27
-- Projected finish: 2026-12-26
-- Activity streak: 1 (best 1)
-- On-schedule streak: 1
+- Projected finish: 2026-12-29
+- Activity streak: 1 (best 2)
+- On-schedule streak: 0
 
 ## Practice Readiness (not a hiring prediction — see docs/DATA_MODEL.md)
 
-- java_foundation      ░░░░░░░░░░ 0.0%
+- java_foundation      ████████░░ 79.9%
 - arrays               ░░░░░░░░░░ 0.0%
 - two_pointers         ░░░░░░░░░░ 0.0%
 - sliding_window       ░░░░░░░░░░ 0.0%
