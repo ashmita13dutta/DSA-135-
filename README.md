@@ -8,9 +8,11 @@ My 135-day Java data-structures and algorithms accountability journey. This repo
 |---|---|
 | Completed curriculum days | 5 / 135 |
 | Active curriculum day | Day 6 |
-| Unique problems solved | 0 |
+| Unique problems solved | 6 *(self-reported — see note)* |
 | Start date | 2026-08-15 |
 | Target date | 2026-12-27 |
+
+> ⚠️ **Chrome extension verification is currently OFF.** "Unique problems solved" above is counted from problems ticked complete inside the app, not from a Chrome-extension-verified LeetCode Accepted event. This is a deliberate, temporary setting — extension-based verification resumes on request.
 
 See [PROGRESS.md](PROGRESS.md) for the full generated progress export and [CURRICULUM.md](CURRICULUM.md) for the study-plan overview.
 
@@ -18,7 +20,7 @@ See [PROGRESS.md](PROGRESS.md) for the full generated progress export and [CURRI
 
 - Java-first practice for language fluency and interview preparation.
 - Local exercises are written, compiled, and tested on my machine.
-- LeetCode work is recorded only after my own fresh Accepted submission.
+- LeetCode work is normally recorded only after my own fresh Accepted submission, verified by a paired Chrome extension. *(Extension verification is temporarily off — see status note above.)*
 - The active day is always the earliest incomplete curriculum day. Missing a calendar day does not skip work; completing the active day unlocks the next.
 
 ## Repository structure
