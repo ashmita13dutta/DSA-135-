@@ -43,3 +43,24 @@ studied_solution
 
 ## Confidence
 RED
+
+# LC 344 — Reverse String
+
+Curriculum Day: 5
+Solved Date: 2026-08-23
+
+## Pattern
+two pointer
+
+## My Approach
+left increment and right decrement with a temp variable swapping
+
+## Complexity
+Time: ?
+Space: ?
+
+## Assistance
+small_hint
+
+## Confidence
+GREEN
