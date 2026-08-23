@@ -64,3 +64,24 @@ small_hint
 
 ## Confidence
 GREEN
+
+# LC 125 — Valid Palindrome
+
+Curriculum Day: 5
+Solved Date: 2026-08-23
+
+## Pattern
+two pointer
+
+## My Approach
+checking first and last char of the string is same or not
+
+## Complexity
+Time: ?
+Space: ?
+
+## Assistance
+small_hint
+
+## Confidence
+GREEN
