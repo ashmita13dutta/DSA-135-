@@ -22,3 +22,24 @@ small_hint
 
 ## Confidence
 GREEN
+
+# LC 242 — Valid Anagram
+
+Curriculum Day: 5
+Solved Date: 2026-08-23
+
+## Pattern
+frequency count
+
+## My Approach
+every single letter added by the first string must be perfectly taken away by the second string.
+
+## Complexity
+Time: O(n)
+Space: O(1)
+
+## Assistance
+studied_solution
+
+## Confidence
+RED
