@@ -5,7 +5,7 @@
 - Schedule delay: 40 day(s)
 - Original target end: 2026-12-27
 - Projected finish: 2027-02-05
-- Activity streak: 0 (best 2)
+- Activity streak: 1 (best 2)
 - On-schedule streak: 0
 
 ## Practice Readiness (not a hiring prediction — see docs/DATA_MODEL.md)
@@ -33,3 +33,5 @@
 - final_mock           ░░░░░░░░░░ 0.0%
 
 ## Unique Problems Solved (Java, fresh Accepted via Chrome extension)
+
+- LC 1480 — Running Sum of 1d Array (n/a)
