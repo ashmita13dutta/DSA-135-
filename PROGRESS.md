@@ -35,3 +35,4 @@
 ## Unique Problems Solved (Java, fresh Accepted via Chrome extension)
 
 - LC 1480 — Running Sum of 1d Array (n/a)
+- LC 1672 — Richest Customer Wealth (n/a)
